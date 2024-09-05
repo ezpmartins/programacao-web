@@ -1,0 +1,12 @@
+{
+  "album": [
+    {
+      "id": "regex:\\d+",
+      "nome": "Mr. Morale & the Big Steppers",
+      "artista": "Kendrick Lamar",
+      "data_lancamento": "2022-05-13",
+      "quantidade_musicas": 18,
+      "total_vendas": 500000.0
+    }
+  ]
+}

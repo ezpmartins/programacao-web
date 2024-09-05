@@ -1,0 +1,12 @@
+{
+  "album": [
+    {
+      "id": 1,
+      "nome": "Um sonhador",
+      "artista": "Leandro e Leonardo",
+      "data_lancamento": "1996-01-01",
+      "quantidade_musicas": 10,
+      "total_vendas": 1000000.0
+    }
+  ]
+}

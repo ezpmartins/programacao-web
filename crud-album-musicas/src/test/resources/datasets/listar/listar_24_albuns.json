@@ -1,0 +1,172 @@
+{
+  "album": [
+    {
+      "nome": "Mr. Morale & the Big Steppers",
+      "artista": "Kendrick Lamar",
+      "data_lancamento": "2022-05-13",
+      "quantidade_musicas": 18,
+      "total_vendas": 500000.0
+    },
+    {
+      "nome": "DAMN.",
+      "artista": "Kendrick Lamar",
+      "data_lancamento": "2017-04-14",
+      "quantidade_musicas": 14,
+      "total_vendas": 3200000.0
+    },
+    {
+      "nome": "To Pimp a Butterfly",
+      "artista": "Kendrick Lamar",
+      "data_lancamento": "2015-03-15",
+      "quantidade_musicas": 16,
+      "total_vendas": 2500000.0
+    },
+    {
+      "nome": "good kid, m.A.A.d city",
+      "artista": "Kendrick Lamar",
+      "data_lancamento": "2012-10-22",
+      "quantidade_musicas": 12,
+      "total_vendas": 300000.0
+    },
+    {
+      "nome": "Abbey Road",
+      "artista": "The Beatles",
+      "data_lancamento": "1969-09-26",
+      "quantidade_musicas": 17,
+      "total_vendas": 31000000.0
+    },
+    {
+      "nome": "Thriller",
+      "artista": "Michael Jackson",
+      "data_lancamento": "1982-11-30",
+      "quantidade_musicas": 9,
+      "total_vendas": 66000000.0
+    },
+    {
+      "nome": "Back in Black",
+      "artista": "AC/DC",
+      "data_lancamento": "1980-07-25",
+      "quantidade_musicas": 10,
+      "total_vendas": 50000000.0
+    },
+    {
+      "nome": "Rumours",
+      "artista": "Fleetwood Mac",
+      "data_lancamento": "1977-02-04",
+      "quantidade_musicas": 11,
+      "total_vendas": 40000000.0
+    },
+    {
+      "nome": "The Wall",
+      "artista": "Pink Floyd",
+      "data_lancamento": "1979-11-30",
+      "quantidade_musicas": 26,
+      "total_vendas": 30000000.0
+    },
+    {
+      "nome": "1989",
+      "artista": "Taylor Swift",
+      "data_lancamento": "2014-10-27",
+      "quantidade_musicas": 13,
+      "total_vendas": 10000000.0
+    },
+    {
+      "nome": "The Eminem Show",
+      "artista": "Eminem",
+      "data_lancamento": "2002-05-26",
+      "quantidade_musicas": 20,
+      "total_vendas": 27000000.0
+    },
+    {
+      "nome": "Lemonade",
+      "artista": "Beyoncé",
+      "data_lancamento": "2016-04-23",
+      "quantidade_musicas": 12,
+      "total_vendas": 3000000.0
+    },
+    {
+      "nome": "Born to Die",
+      "artista": "Lana Del Rey",
+      "data_lancamento": "2012-01-27",
+      "quantidade_musicas": 12,
+      "total_vendas": 7000000.0
+    },
+    {
+      "nome": "25",
+      "artista": "Adele",
+      "data_lancamento": "2015-11-20",
+      "quantidade_musicas": 11,
+      "total_vendas": 22000000.0
+    },
+    {
+      "nome": "AM",
+      "artista": "Arctic Monkeys",
+      "data_lancamento": "2013-09-09",
+      "quantidade_musicas": 12,
+      "total_vendas": 2000000.0
+    },
+    {
+      "nome": "Sgt. Pepper's Lonely Hearts Club Band",
+      "artista": "The Beatles",
+      "data_lancamento": "1967-05-26",
+      "quantidade_musicas": 13,
+      "total_vendas": 32000000.0
+    },
+    {
+      "nome": "Hybrid Theory",
+      "artista": "Linkin Park",
+      "data_lancamento": "2000-10-24",
+      "quantidade_musicas": 12,
+      "total_vendas": 27000000.0
+    },
+    {
+      "nome": "Goodbye Yellow Brick Road",
+      "artista": "Elton John",
+      "data_lancamento": "1973-10-05",
+      "quantidade_musicas": 17,
+      "total_vendas": 30000000.0
+    },
+    {
+      "nome": "Hotel California",
+      "artista": "Eagles",
+      "data_lancamento": "1976-12-08",
+      "quantidade_musicas": 9,
+      "total_vendas": 42000000.0
+    },
+    {
+      "nome": "Jagged Little Pill",
+      "artista": "Alanis Morissette",
+      "data_lancamento": "1995-06-13",
+      "quantidade_musicas": 13,
+      "total_vendas": 33000000.0
+    },
+    {
+      "nome": "Nevermind",
+      "artista": "Nirvana",
+      "data_lancamento": "1991-09-24",
+      "quantidade_musicas": 13,
+      "total_vendas": 30000000.0
+    },
+    {
+      "nome": "The Joshua Tree",
+      "artista": "U2",
+      "data_lancamento": "1987-03-09",
+      "quantidade_musicas": 11,
+      "total_vendas": 25000000.0
+    },
+    {
+      "nome": "Appetite for Destruction",
+      "artista": "Guns N' Roses",
+      "data_lancamento": "1987-07-21",
+      "quantidade_musicas": 12,
+      "total_vendas": 30000000.0
+    },
+    {
+      "nome": "In the Lonely Hour",
+      "artista": "Sam Smith",
+      "data_lancamento": "2014-05-26",
+      "quantidade_musicas": 14,
+      "total_vendas": 12000000.0
+    }
+  ]
+}

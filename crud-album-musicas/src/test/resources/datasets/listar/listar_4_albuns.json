@@ -1,0 +1,36 @@
+{
+  "album": [
+    {
+      "id": 1,
+      "nome": "Mr. Morale & the Big Steppers",
+      "artista": "Kendrick Lamar",
+      "data_lancamento": "2022-05-13",
+      "quantidade_musicas": 18,
+      "total_vendas": 500000.0
+    },
+    {
+      "id": 2,
+      "nome": "DAMN.",
+      "artista": "Kendrick Lamar",
+      "data_lancamento": "2017-04-14",
+      "quantidade_musicas": 14,
+      "total_vendas": 3200000.0
+    },
+    {
+      "id": 3,
+      "nome": "To Pimp a Butterfly",
+      "artista": "Kendrick Lamar",
+      "data_lancamento": "2015-03-15",
+      "quantidade_musicas": 16,
+      "total_vendas": 2500000.0
+    },
+    {
+      "id": 4,
+      "nome": "good kid, m.A.A.d city",
+      "artista": "Kendrick Lamar",
+      "data_lancamento": "2012-10-22",
+      "quantidade_musicas": 12,
+      "total_vendas": 3500000.0
+    }
+  ]
+}
